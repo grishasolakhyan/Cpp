@@ -1,0 +1,3 @@
+﻿  Integral.cpp
+D:\Code\C++\Integral\Integral\Integral.cpp(28,9): warning C4101: sum: неиспользованная локальная переменная
+  Integral.vcxproj -> D:\Code\C++\Integral\Debug\Integral.exe
