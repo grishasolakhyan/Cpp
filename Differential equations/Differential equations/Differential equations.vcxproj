@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="First order differential equation.cpp" />
     <ClCompile Include="Second order differential equation.cpp" />
+    <ClCompile Include="Дифференциальное уравнение второго порядка.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
